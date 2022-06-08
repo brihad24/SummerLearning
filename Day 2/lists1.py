@@ -10,6 +10,7 @@ print(len(NewList))
 
 # Indexing starts from 0 and so on till n-1
 print(NewList[1])
+print(NewList[-1]) # If we use negative numbers, the indexing starts from the rightmost element
  
 # Append func adds an item to the list
 NewList.append('Me')
