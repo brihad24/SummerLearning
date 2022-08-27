@@ -1,4 +1,4 @@
-temperature = 35
+temperature = int(input("Enter Temperature: "))
 if temperature > 30:
     print("It is a very hot day")
 
